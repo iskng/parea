@@ -1,0 +1,12 @@
+{
+  "name": "Paréa Zion",
+  "short_name": "Paréa",
+  "description": "A landscape hotel and retreat center on the edge of Zion National Park, Utah.",
+  "icons": [
+    { "src": "/favicon-32x32.png", "sizes": "32x32", "type": "image/png" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ],
+  "theme_color": "#e9e2d6",
+  "background_color": "#e9e2d6",
+  "display": "standalone"
+}

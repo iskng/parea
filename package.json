@@ -1,0 +1,12 @@
+{
+  "name": "pareazion-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler pages dev .",
+    "deploy": "wrangler pages deploy . --project-name=parea"
+  },
+  "devDependencies": {
+    "wrangler": "4.100.0"
+  }
+}

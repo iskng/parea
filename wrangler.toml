@@ -1,0 +1,9 @@
+name = "parea"
+pages_build_output_dir = "."
+compatibility_date = "2026-06-15"
+
+# Reuses the same D1 newsletter database as the original site.
+[[d1_databases]]
+binding = "DB"
+database_name = "pareazion-newsletter"
+database_id = "278eee81-986d-4eb4-adf1-bf23f0506af4"
